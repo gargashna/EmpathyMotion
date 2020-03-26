@@ -1,2 +1,0 @@
-# EmpathyMotion
-Created with CodeSandbox
